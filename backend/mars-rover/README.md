@@ -42,8 +42,6 @@ Lembre-se de que iremos executar seu código com navegações bem mais complexas
 
 Para o desenvolvimento desse sistema, nós solicitamos que você utilize a sua (ou as suas) linguagem de programação principal. Pode ser Java, JavaScript ou Ruby.
 
-Para divulgar sua solução para nós, recomendamos que faça um pull request a partir deste repositório.
-
-O prazo máximo para entrega é dia de 5 dias.
+O prazo máximo para entrega é dia de 5 dias, para divulgar sua solução para nós, recomendamos que um pull request seja aberto a partir deste repositório.
 
 Bom desafio!
