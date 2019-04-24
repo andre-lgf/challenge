@@ -27,8 +27,6 @@ Exemplo:
 
 Outro detalhe no cadastro, a url do Twitter deverá ser armazenada encurtada, por exemplo, http://goo.gl.
 
-After the member has been added, I can define their friendships with other existing members. Friendships are bi-directional i.e. If David is a friend of Oliver, Oliver is always a friend of David as well.
-
 A página principal do sistema (home) deverá exibir um campo de busca e que ao ser preenchido com qualquer informação que poderá condizer com o `nome do membro`, `usuário do Twitter` ou `descrição armazenada do Twitter`, então deverá buscar membros e exibir em uma lista, contendo, nome e a url encurtada do perfil do Twitter com botões para editar/visualizar o registro.
 
 Acessando o cadastro do membro, a página deverá exibir o `nome`, `url encurtada` do perfil do Twitter, o `nome de usuário do Twitter` e a `descrição recuperada da página do Twitter`. Além disso botões para editar/remover o registro.
