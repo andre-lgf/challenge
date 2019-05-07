@@ -23,7 +23,7 @@ Exemplo:
 ![Informações Twitter](https://i.postimg.cc/YqcpWVkx/Screen-Shot-2019-04-24-at-11-44-09.png)
 
 * Nome de usuário do Twitter: `usefretadao`
-* Nome de usuário do Twitter: `Plataforma que possibilita pessoas a encontrar e contratar o transporte mais adequado para seu dia-a-dia. 🚍`
+* Descrição sobre o usuário do Twitter: `Plataforma que possibilita pessoas a encontrar e contratar o transporte mais adequado para seu dia-a-dia. 🚍`
 
 Outro detalhe no cadastro, a url do Twitter deverá ser armazenada encurtada, por exemplo, http://goo.gl.
 
