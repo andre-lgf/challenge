@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Estamos avaliando uma série de coisas, que incluem o aspecto de design da sua solução, mas, na maioria das vezes, estamos procurando boas práticas de codificação e suas habilidades de programação orientada a objetos. Também esperamos por testes automatizados.
+Estamos avaliando uma série de coisas, que incluem o aspecto de design da sua solução, mas na maioria das vezes, estamos procurando boas práticas de codificação e suas habilidades de programação orientada a objetos. Também esperamos por testes automatizados.
 
 ## Problema
 
@@ -39,12 +39,10 @@ Um exemplo de entrada seria, mapa `SP`, origem `A`, destino `D`, autonomia `10`,
 Voce está livre para definir a melhor arquitetura e tecnologias para solucionar este desafio, mas não se esqueça de contar sua motivação no
 arquivo README que deve acompanhar sua solução, junto com os detalhes de como executar seu programa. 
 
-Documentação e testes são avaliados também ;) 
+Documentação, testes e organização do seu código serão avaliados também ;) 
 
 Lembre-se de que iremos executar seu código com malhas bem mais complexas que o exemplo acima, por isso é importante pensar em requisitos não funcionais também!
 
 Para o desenvolvimento desse sistema, nós solicitamos que você utilize a sua (ou as suas) linguagem de programação principal. Pode ser Java, JavaScript ou Ruby.
-
-O prazo máximo para entrega é dia de 5 dias, para divulgar sua solução para nós, recomendamos que um pull request seja aberto a partir deste repositório.
 
 Bom desafio!
