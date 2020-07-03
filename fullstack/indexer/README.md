@@ -55,7 +55,8 @@ Lembre-se que você pode usar `classes`, `ids` e `data-attributes` para encontra
 
 
 ### 3. Encurtamento de URLs
-Ao cadastrar um perfil, a URL do Github deverá ser armazenada  de forma encurtada, por exemplo, https://bitly.com/. Você está livre para decidir como irá implementar isso, portanto saiba justificar sua escolha.
+Ao cadastrar um perfil, a URL do Github deverá ser armazenada de forma encurtada, por exemplo, https://bitly.com/. Você está livre para decidir como irá implementar isso, portanto saiba justificar sua escolha.
+
 
 ### 4. Re-escanear
 Após cadastrado, também deve ser possível escanear (de forma manual) o perfil do Github em busca de novas informações que possam ter sido adicionadas.
@@ -68,7 +69,7 @@ As interações necessárias são:
 #### 5.1 Busca e resultados
 * A página principal do sistema deverá exibir um campo de busca.
 * A busca poderá ser preenchida com qualquer informação do perfil (`nome`, `usuário do Github`, `organização`, `localização`, etc).
-* Os resultados deverão ser uma lista de usuários contendo nome, URL encurtada do perfil do Github e  botões para editar/visualizar o registro.
+* Os resultados deverão ser uma lista de usuários contendo nome, URL encurtada do perfil do Github e botões para editar/visualizar o registro.
 
 #### 5.2 Perfil
 * A página de perfil deverá exibir todos os campos salvos.
