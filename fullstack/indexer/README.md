@@ -23,7 +23,8 @@ Quando o cadastro de um novo membro for realizado, então através de um webscra
 * Número de contribuições no último ano
 * URL da imagem de perfil
 
-Fique atento porque algumas informações que podem ou não existir, tais como:
+Fique atento porque algumas informações podem ou não existir, tais como:
+
 
 * Organização
 * Localização
