@@ -28,7 +28,6 @@ Fique atento porque algumas informações podem ou não existir, tais como:
 
 * Organização
 * Localização
-* Email
 
 Lembre-se que você pode usar `classes`, `ids` e `data-attributes` para encontrar no HTML os dados que precisa. Por exemplo:
 
@@ -51,7 +50,6 @@ Lembre-se que você pode usar `classes`, `ids` e `data-attributes` para encontra
 #### Opcionais
 * Organização: `Ruby Association,NaCl,Heroku,Etc.`
 * Localização: `Matsue, Japan`
-* Email: `matz@ruby.or.jp`
 
 
 ### 3. Encurtamento de URLs
