@@ -1,8 +1,8 @@
-# Histórico e marcação de posições via Mapa
+# Histórico e marcação de posições no Mapa
 
 ## Descrição
 
-Usando as melhores práticas de desenvolvimento mobile, gostaríamos que você criasse um aplicativo que posibilite a seleção de pontos em um mapa e o armazenamento de tais posições para consulta histórica.
+Usando as melhores práticas de desenvolvimento mobile, gostaríamos que você criasse um aplicativo que possibilita a seleção de pontos em um mapa e o armazenamento de tais posições para consulta histórica.
 
 ## Requisitos
 ### 1. Tela inicial com Mapa
@@ -35,7 +35,7 @@ Entende-se como pin/marker um indicador que possa mostrar no mapa o ponto (latit
 
 As interações necessárias são:
 
-* A tela principal (inicial) do aplicativo deveverá carregar o mapa centralizado em uma latitude e longitude (item 1).
+* A tela principal (inicial) do aplicativo deverá carregar o mapa centralizado em uma latitude e longitude (item 1).
 * O evento de click no mapa deve capturar as coordenadas (latitude e longitude), exibir um pin/marker da posição onde ocorreu o click e armazenar as coordenadas em uma lista.
 * As coordenadas devem ser armazenadas e mantidas em uma lista histórica a qual possibilita que o usuário possa selecionar a coordenada e a mesma seja exibida no mapa através de um pin/marker.
 
