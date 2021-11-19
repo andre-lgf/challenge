@@ -8,6 +8,8 @@ Usando as melhores práticas de desenvolvimento mobile, gostaríamos que você c
 
 https://www.fluidui.com/editor/live/preview/cF9BeHZ1eEswVm5mcm1aMjZuRHZxUG83VXdwaEkxVkZSSg==
 
+Para uma melhor experiência, antes de iniciar a navegação acione o link "Restart preview" exibido na página. 
+
 ## Requisitos
 ### 1. Tela inicial com Mapa
 
