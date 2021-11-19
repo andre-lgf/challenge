@@ -4,6 +4,10 @@
 
 Usando as melhores práticas de desenvolvimento mobile, gostaríamos que você criasse um aplicativo que possibilita a seleção de pontos em um mapa e o armazenamento de tais posições para consulta histórica.
 
+## UI de exemplo
+
+https://www.fluidui.com/editor/live/preview/cF9BeHZ1eEswVm5mcm1aMjZuRHZxUG83VXdwaEkxVkZSSg==
+
 ## Requisitos
 ### 1. Tela inicial com Mapa
 
@@ -16,22 +20,25 @@ Assim que o mapa carregar o mesmo pode estar centralizado na seguinte coordenada
 
 ### 2. Seleção de posição no Mapa
 
-Após o carregamento do mapa, no evento de click do mapa, deve-se inserir um pin/marker.
+Após o carregamento do mapa, no evento de toque no mapa, deve-se inserir um pin.
 
-A cada novo evento de click no mapa, deve-se alterar o pin/marker do click anterior para o novo.
+A cada novo evento de toque no mapa, deve-se remover o pin anterior e adicionar um novo pin no ponto do mapa o qual foi tocado.
 
 ### 3. Armazenamento e listagem das posições
 
-A cada evento de click no mapa, deve-se armazenar em uma lista as coordenadas (latitude/longitude) do ponto. 
+A cada evento de toque no mapa, deve-se armazenar em uma lista histórica as coordenadas (latitude/longitude) do ponto tocado no mapa. 
 
 Essas informações das coordenadas na lista devem ser persistidas e caso o aplicativo seja encerrado/aberto novamente, a lista deve carregar com as informações dos pontos que foram selecionados anteriormente.
 
-Ao selecionar uma das coordenadas listadas o mapa deve exibir o pin/marker da coordenada selecionada, caso já haja um pin/marker exibido no mapa, então esse será alterado para o pin/marker da coordenada selecionada na lista.
+Ao selecionar uma das coordenadas das lista o mapa deve exibir o pin da coordenada selecionada, caso já haja um pin exibido no mapa, então esse será removido e o pin da coordenada selecionada na lista deve ser adicionado ao mapa.
 
 ### 4. Interface de Usuário
 Esse é um desafio mobile, ele deve ser **funcional**, portanto não se preocupe se suas habilidades de design não forem 10/10 :sweat_smile:.
 
-Entende-se como pin/marker um indicador que possa mostrar no mapa o ponto (latitude/longitude) selecionado no evento de click.
+Entende-se como pin um icone indicador que possa mostrar no mapa o ponto (latitude/longitude) selecionado no evento de click.
+
+Para faciliar o entendimento de todo o fluxo, segue um exemplo de UI navegável:
+https://www.fluidui.com/editor/live/preview/cF9BeHZ1eEswVm5mcm1aMjZuRHZxUG83VXdwaEkxVkZSSg==
 
 As interações necessárias são:
 
