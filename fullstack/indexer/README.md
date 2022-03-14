@@ -80,8 +80,10 @@ As interações necessárias são:
 Avaliaremos sua solução por completo, incluindo código front-end, back-end, testes e documentação. Preste atenção nos seguintes pontos:
 
 * Arquitetura geral da solução;
+* Se possível, publique sua aplicação para que possamos acessar remotamente;
 * Boas práticas de codificação;
   * Lembre-se que é um desafio Fullstack, então avaliaremos todas as habilidades: Ruby, Rails, HTML, CSS e Javascript.
+  * Busque trazer algum conhecimento em relação ao frontend, dessa forma, podemos entender um pouco mais do seu conhecimento nessa frente também.
 * Técnicas e padrões de projeto;
   * SOLID e DRY, por exemplo.
 * Testes;
