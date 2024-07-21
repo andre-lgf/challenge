@@ -1,0 +1,12 @@
+<div class="w-full">
+  <%= turbo_stream_from "profiles-index" %>
+  <%= render Records::IndexComponent.new(
+    collection: @profiles,
+    title: 'Usuários',
+    resource_model: Profile,
+    resource_icon: 'user',
+    searchable: true,
+    pagy: @pagy,
+    allow_elastic: true
+  ) %>
+</div>

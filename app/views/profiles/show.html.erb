@@ -1,0 +1,4 @@
+<%= turbo_stream_from "profile_#{@profile.id}-full" %>
+<div class='w-full'>
+  <%= render "detailed_profile", profile: @profile %>
+</div>
